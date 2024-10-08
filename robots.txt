@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://esteryov.github.io/sitemap.html.gz
+Sitemap: https://esteryov.github.io/app/sitemap.html.gz
+Sitemap: https://esteryov.github.io/assets/sitemap.html.gz
+Sitemap: https://esteryov.github.io/css/sitemap.html.gz
+Sitemap: https://esteryov.github.io/includes/sitemap.html.gz
+Sitemap: https://esteryov.github.io/item/sitemap.html.gz
+Sitemap: https://esteryov.github.io/src/sitemap.html.gz
